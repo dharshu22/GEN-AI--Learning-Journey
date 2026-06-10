@@ -1,0 +1,123 @@
+LAT STAR
+------------
+     *
+    **
+   ***
+  ****
+ *****
+LAT NUM ROW
+------------
+     1
+    22
+   333
+  4444
+ 55555
+LAT NUM COL
+------------
+     0
+    01
+   012
+  0123
+ 01234
+LAT UPPER ROW
+------------
+     A
+    BB
+   CCC
+  DDDD
+ EEEEE
+LAT UPPER COL
+------------
+     
+    A
+   AB
+  ABC
+ ABCD
+ABCDE
+LAT LOWER ROW
+------------
+     a
+    bb
+   ccc
+  dddd
+ eeeee
+LAT LOWER COL
+------------
+     
+    a
+   ab
+  abc
+ abcd
+abcde
+LAT NAM ROW
+------------
+      v
+     ii
+    sss
+   hhhh
+  nnnnn
+ uuuuuu
+LAT NAM COL
+------------
+      v
+     vi
+    vis
+   vish
+  vishn
+ vishnu
+ILAT STAR
+--------------
+******
+ *****
+  ****
+   ***
+    **
+     *
+ILAT NUM ROW
+------------
+666666
+ 55555
+  4444
+   333
+    22
+     1
+ILAT NUM COL
+------------
+012345
+ 01234
+  0123
+   012
+    01
+     0
+ILAT UPPER ROW
+------------
+FFFFFF
+ EEEEE
+  DDDD
+   CCC
+    BB
+     A
+ILAT UPPER COL
+------------
+ABCDE
+ ABCD
+  ABC
+   AB
+    A
+     
+ILAT LOWER ROW
+------------
+ffffff
+ eeeee
+  dddd
+   ccc
+    bb
+     a
+ILAT LOWER COL
+------------
+abcde
+ abcd
+  abc
+   ab
+    a
+     
