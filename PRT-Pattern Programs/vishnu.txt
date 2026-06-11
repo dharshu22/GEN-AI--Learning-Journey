@@ -1,0 +1,56 @@
+IPRT STAR
+--------------
+* * * * * * 
+ * * * * * 
+  * * * * 
+   * * * 
+    * * 
+     * 
+IPRT NUM ROW
+--------------
+6 6 6 6 6 6 
+ 5 5 5 5 5 
+  4 4 4 4 
+   3 3 3 
+    2 2 
+     1 
+IPRT NUM COL
+--------------
+1 2 3 4 5 
+ 1 2 3 4 
+  1 2 3 
+   1 2 
+    1 
+     
+IPRT UPPER ROW
+--------------
+F F F F F F 
+ E E E E E 
+  D D D D 
+   C C C 
+    B B 
+     A 
+IPRT UPPER COL
+--------------
+A B C D E 
+ A B C D 
+  A B C 
+   A B 
+    A 
+     
+IPRT LOWER ROW
+--------------
+f f f f f f 
+ e e e e e 
+  d d d d 
+   c c c 
+    b b 
+     a 
+IPRT lowER COL
+--------------
+a b c d e 
+ a b c d 
+  a b c 
+   a b 
+    a 
+     
